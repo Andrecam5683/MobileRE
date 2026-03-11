@@ -6,7 +6,7 @@ Supports:
 .exe files
 .dll files
 
-NOTE:
+```NOTE:
 May not work on too much protection on .so, dll or exe
 
 Sometimes have empty files when outputting
@@ -14,3 +14,8 @@ Sometimes have empty files when outputting
 Might be inaccurate, if so please double check using IDA PRO or Ghidra
 
 idk what mobilere (C++) is doing in the folder, probably from old version 
+```
+
+also it generates pseudocode.c but with asm instructions 💀💀🥀🥀
+
+im too lazy to fix rhat
